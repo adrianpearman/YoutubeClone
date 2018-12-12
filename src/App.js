@@ -19,7 +19,7 @@ class App extends Component {
       selectedVideo: null
      };
 
-     this.videoSearch('skateboards')
+     this.videoSearch('iphone')
   }
 
   videoSearch(term){
@@ -46,4 +46,4 @@ class App extends Component {
   }
 }
 
-export default App
+export default App 
